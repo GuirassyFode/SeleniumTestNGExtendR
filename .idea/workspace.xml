@@ -4,32 +4,179 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acdb1e1e-9858-4933-a615-f81e72c994af" name="Changes" comment="" />
+    <list default="true" id="acdb1e1e-9858-4933-a615-f81e72c994af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/GeneralUserView.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GeneralUserView.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/LoggedIn.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/LoggedIn.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/NewUserRegistation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/NewUserRegistation.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoggedInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoggedInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/OnlineProductsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/OnlineProductsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/LoggInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/LoggInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/OnLineProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/OnLineProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utility/BrowserDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utility/BrowserDriver.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GuirassyFode/SeleniumTestNGExtendR.git",
+    "accountId": "65de821e-f6c8-4f6c-ba64-6cc941db5b3f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2mORi2crKSr3t0BM3jTlfQdn68h" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cucumber Java.Scenario: Validate User is able to view home page after login.executor": "Run",
+    "Cucumber Java.Scenario: Validate general user is able to view products whitout logging in.executor": "Run",
+    "Cucumber Java.Scenario: Validate new user is able to view after clicking on new Registration.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.SeleniumCucumberWebDriverManager [clean].executor": "Run",
+    "Maven.SeleniumCucumberWebDriverManager [test].executor": "Run",
+    "Maven.SeleniumTestNGExtendR [clean:clean].executor": "Run",
+    "Maven.SeleniumTestNGExtendR [clean].executor": "Run",
+    "Maven.SeleniumTestNGExtendR [compile].executor": "Run",
+    "Maven.SeleniumTestNGExtendR [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.SeleniumTestNGExtendR [org.apache.maven.plugins:maven-install-plugin:3.1.2:help].executor": "Run",
+    "Maven.SeleniumTestNGExtendR [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor": "Run",
+    "Maven.SeleniumTestNGExtendR [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stepDefinition" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean:clean" />
+      <command value="mvn compile" />
+      <command value="mvn clean" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: Validate User is able to view home page after login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/LoggedIn.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumTestNGExtendR" />
+      <option name="NAME_FILTER" value="^Validate User is able to view home page after login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate User is able to view home page after login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate User is able to view home page after login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate general user is able to view products whitout logging in" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/GeneralUserView.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumTestNGExtendR" />
+      <option name="NAME_FILTER" value="^Validate general user is able to view products whitout logging in$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate general user is able to view products whitout logging in$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate general user is able to view products whitout logging in" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate new user is able to view after clicking on new Registration" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/NewUserRegistation.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumTestNGExtendR" />
+      <option name="NAME_FILTER" value="^Validate new user is able to view after clicking on new Registration$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate new user is able to view after clicking on new Registration$&quot;" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate new user is able to view after clicking on new Registration" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit">
+      <module name="SeleniumTestNGExtendR" />
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Validate general user is able to view products whitout logging in" />
+      <item itemvalue="Cucumber Java.Scenario: Validate new user is able to view after clicking on new Registration" />
+      <item itemvalue="Cucumber Java.Scenario: Validate User is able to view home page after login" />
+      <item itemvalue="JUnit.TestRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Validate general user is able to view products whitout logging in" />
+        <item itemvalue="Cucumber Java.Scenario: Validate new user is able to view after clicking on new Registration" />
+        <item itemvalue="Cucumber Java.Scenario: Validate User is able to view home page after login" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
