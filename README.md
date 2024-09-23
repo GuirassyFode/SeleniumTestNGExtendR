@@ -54,6 +54,11 @@ npm install -g allure-commandline --save-dev
 # Report with intentional error
  ![Screenshot 2024-09-23 at 7 21 50 AM](https://github.com/user-attachments/assets/436f0ee4-ecdf-4251-8e14-ac0f2ca3a707)
 
+
+
+![Screenshot 2024-09-23 at 7 45 23 AM](https://github.com/user-attachments/assets/dd120b7c-de97-4d3d-8415-199e44c2ee64)
+
+
  
 
 
