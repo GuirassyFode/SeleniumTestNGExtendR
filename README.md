@@ -59,6 +59,15 @@ npm install -g allure-commandline --save-dev
 ![Screenshot 2024-09-23 at 7 45 23 AM](https://github.com/user-attachments/assets/dd120b7c-de97-4d3d-8415-199e44c2ee64)
 
 
+Trigger maven Job In Jenkins
+
+![image](https://github.com/user-attachments/assets/0245cc48-41bb-4118-bc3e-5aa36a6a1a05)
+
+
+
+
+
+
  
 
 
