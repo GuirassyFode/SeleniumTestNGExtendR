@@ -1,0 +1,4 @@
+DESCRIPTION,DURATION IN MS,NAME,PARENT SUITE,START TIME,STATUS,STOP TIME,SUB SUITE,SUITE,TEST CLASS,TEST METHOD
+,5837,Validate general user is able to view products whitout logging in,,Mon Sep 23 07:06:28 EDT 2024,failed,Mon Sep 23 07:06:34 EDT 2024,,LoggedIn User View,Validate general user is able to view products whitout logging in,
+,5345,Validate User is able to view home page after login,,Mon Sep 23 07:06:34 EDT 2024,passed,Mon Sep 23 07:06:39 EDT 2024,,LoggedIn User View,Validate User is able to view home page after login,
+,5287,Validate new user is able to view after clicking on new Registration,,Mon Sep 23 07:06:39 EDT 2024,passed,Mon Sep 23 07:06:44 EDT 2024,,LoggedIn User View,Validate new user is able to view after clicking on new Registration,
