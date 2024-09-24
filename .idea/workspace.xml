@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acdb1e1e-9858-4933-a615-f81e72c994af" name="Changes" comment="">
+    <list default="true" id="acdb1e1e-9858-4933-a615-f81e72c994af" name="Changes" comment="Updated Product names">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/GeneralUserView.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GeneralUserView.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/LoggedIn.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/LoggedIn.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/NewUserRegistation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/NewUserRegistation.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoggedInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoggedInPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/OnlineProductsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/OnlineProductsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/LoggInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/LoggInPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/OnLineProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/OnLineProductPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/RegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utility/BrowserDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utility/BrowserDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +22,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GuirassyFode/SeleniumTestNGExtendR.git",
-    "accountId": "65de821e-f6c8-4f6c-ba64-6cc941db5b3f"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GuirassyFode&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GuirassyFode/SeleniumTestNGExtendR.git&quot;,
+    &quot;accountId&quot;: &quot;65de821e-f6c8-4f6c-ba64-6cc941db5b3f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mORi2crKSr3t0BM3jTlfQdn68h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,6 +56,9 @@
     "JUnit.TestRunner.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.SeleniumCucumberWebDriverManager [clean].executor": "Run",
+    "Maven.SeleniumCucumberWebDriverManager [install:install-file].executor": "Run",
+    "Maven.SeleniumCucumberWebDriverManager [install].executor": "Run",
+    "Maven.SeleniumCucumberWebDriverManager [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor": "Run",
     "Maven.SeleniumCucumberWebDriverManager [test].executor": "Run",
     "Maven.SeleniumTestNGExtendR [clean:clean].executor": "Run",
     "Maven.SeleniumTestNGExtendR [clean].executor": "Run",
@@ -73,7 +69,7 @@
     "Maven.SeleniumTestNGExtendR [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "devopsautomation",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -89,9 +85,11 @@
       <command value="mvn compile" />
       <command value="mvn clean" />
       <command value="mvn test" />
+      <command value="mvn install:install-file" />
+      <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Validate general user is able to view products whitout logging in">
     <configuration name="Scenario: Validate User is able to view home page after login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/LoggedIn.feature" />
@@ -186,6 +184,57 @@
       <option name="presentableId" value="Default" />
       <updated>1726945759728</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1727090026329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727090026329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Adding CSV report">
+      <option name="closed" value="true" />
+      <created>1727092445124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727092445124</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated Product name">
+      <option name="closed" value="true" />
+      <created>1727177313837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727177313837</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated Product names">
+      <option name="closed" value="true" />
+      <created>1727177651575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727177651575</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Commit Adding CSV report" />
+    <MESSAGE value="Updated Product name" />
+    <MESSAGE value="Updated Product names" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Product names" />
   </component>
 </project>
