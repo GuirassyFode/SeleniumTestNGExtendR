@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acdb1e1e-9858-4933-a615-f81e72c994af" name="Changes" comment="Updated Product names">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="acdb1e1e-9858-4933-a615-f81e72c994af" name="Changes" comment="Updated Dockerfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,7 @@
     "Maven.SeleniumCucumberWebDriverManager [clean].executor": "Run",
     "Maven.SeleniumCucumberWebDriverManager [install:install-file].executor": "Run",
     "Maven.SeleniumCucumberWebDriverManager [install].executor": "Run",
+    "Maven.SeleniumCucumberWebDriverManager [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
     "Maven.SeleniumCucumberWebDriverManager [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor": "Run",
     "Maven.SeleniumCucumberWebDriverManager [test].executor": "Run",
     "Maven.SeleniumTestNGExtendR [clean:clean].executor": "Run",
@@ -216,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727177651575</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated Dockerfile">
+      <option name="closed" value="true" />
+      <created>1727199602727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727199602727</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +242,7 @@
     <MESSAGE value="Commit Adding CSV report" />
     <MESSAGE value="Updated Product name" />
     <MESSAGE value="Updated Product names" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Product names" />
+    <MESSAGE value="Updated Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Dockerfile" />
   </component>
 </project>
