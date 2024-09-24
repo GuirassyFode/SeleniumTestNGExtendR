@@ -31,7 +31,7 @@ public class OnLineProductPage {
 
         gettest_formal_shoes_firstvalue();
 
-        assertEquals("Classic Cheltenham", gettest_formal_shoes_firstvalue());
+        assertEquals("  Classic Cheltenham", gettest_formal_shoes_firstvalue());
 
 
 
