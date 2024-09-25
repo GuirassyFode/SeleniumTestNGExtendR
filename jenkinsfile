@@ -1,0 +1,39 @@
+pipeline {
+    agent any
+    tools{
+        maven 'MavenIntegration'
+    }
+    stages{
+        stage('Build Maven'){
+            steps{
+                checkout scmGit(branches: [[name: '*/jenkinsfileIntegration']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/GuirassyFode/SeleniumTestNGExtendR.git']])
+
+                sh 'mvn clean install'
+            }
+
+        }
+        stage('Build Docker Image'){
+            steps{
+                script{
+                    sh 'docker  build -t momodocker/devops-integration .'
+                }
+
+            }
+
+        }
+        stage('Push on Docker Hub'){
+            steps{
+                withCredentials([string(credentialsId: 'docker-hub-pwd', variable: 'dockerHubVariable')]) {
+                sh 'docker login -u momodocker -p ${dockerHubVariable}'
+
+}
+                sh 'docker push momodocker/devops-integration'
+
+                }
+
+
+            }
+
+        }
+
+    }
